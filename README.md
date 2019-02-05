@@ -21,6 +21,4 @@ Follow-up Article (FiveThirtyEight): ["We Gave You 3 Million Russian Troll Tweet
 
 VADER Sentiment Analysis explained + documentation: [VADER-Sentiment-Analysis](https://github.com/cjhutto/vaderSentiment)
 
-Possible source for 2016 events data: ["Here Are All The Dates You Need To Know For Election 2016"](https://www.huffingtonpost.com/entry/2016-primary-dates_us_56689f99e4b009377b23acc3)
-
 Project Presentation: https://docs.google.com/presentation/d/1L7pH3lrLDVBH42iKPD6rhacbqmFsslhbiOGZ550V9ZQ/edit?usp=sharing
