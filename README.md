@@ -1,4 +1,7 @@
 # Twitter Trolls Sentiment Analysis
+## Group Project for GWU Analytics & Visualization Bootcamp
+
+We analyzed the sentiment of 2 million Russian Troll tweets that were used around the 2016 presidential election, to see what interesting patterns we could find among these trolls.
 
 ### Important Links ###
 
